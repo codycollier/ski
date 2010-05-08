@@ -1,12 +1,13 @@
 #!/usr/bin/env python
-""" ski!
+""" skier -- Keep the skier between the lines.  Watch out for jumps!
 
-Middle school memories.  This is an attempt to recreate the old Apple IIgs 
-game we used to play in class.  I think I got the game from an Apple Basic 
-magazine or book and typed it in.  We played that game for hours.  I've never 
-been able to find any reference to it online.
+start:
+    [host]$ ./skier.py
 
-last updated: 07/19/2004
+keys:
+    j - move the skier to the left
+    k - move the skier to the right
+
 """
 
 __history__ = """

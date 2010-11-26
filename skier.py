@@ -26,38 +26,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 """
 
-__history__ = """
-0.1 -> 05/15/2003
-    -> First incarnation.  Execution.
-    -> first round: print_slope, skier_position, main routine,
-        generate_random, print_stats
-    -> setting constants and variables
-0.2 -> 05/16/2003
-    -> reorganized and cleaned up 
-    -> developing and testing user input methods
-    -> added get_user_input_sys
-    -> added get_user_input_curses
-    -> added get_user_input_run
-    -> add the logic for determining if skier has gone out of bounds.
-0.3 -> 05/17/2003
-0.3 -> 05/19/2003
-    -> add limit of 80 collumns
-0.4 -> 06/09/2003
-    -> removed any curses references
-0.5 -> 06/10/2003
-    -> add the raw terminal code for getch() like functionality, based on:
-    -> http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/134892
-    -> fixing some bad algorithms in the display functions
-0.5 -> 03/15/2004
-    -> review and pick back up
-    -> fixed error in the rightspace calculation
-
-ToDo:
-    -> add the raw terminal code for getch() like functionality
-    -> 
-    -> 
-
-"""
 
 import sys
 import random

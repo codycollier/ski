@@ -1,0 +1,53 @@
+Ski is a simple text based game
+
+A number of years ago, the code for a variation of this game was published in an apple basic magazine.  We eagerly typed it in and played the game for hours on an apple IIgs.  I've never found the original code or references to the game online.  So, this small python script attempts to recreate that game.
+
+
+keys:
+  * j - move to the left
+  * k - move to the right
+
+
+example:
+
+!                 H              !
+  !              H                 !
+   !            H                   !
+   !           H                    !
+    !           H                    !
+     !          H                     !
+    !           H                    !
+     !          H                     !
+       !        H                       !
+         !       H                        !
+       !          H                     !
+         !         H                      !
+           !        H                       !
+          !          H                     !
+         !            H                   !
+           !           H                    !
+           !            H                   !
+             !           H                    !
+              !           H                    !
+               !           H                    !
+              !             H                  !
+             !               H                !
+             !                H               !
+              !                H               !
+               !                H               !
+                !                H               !
+                 !                H               !
+               !                   H            !
+              !                     H          !
+               !                     H          !
+               !                      H         !
+              !                        H       !
+            !                           H    !
+           !                             H  !
+          !                               H!
+        !                                  H!
+       *                                  H*!
+
+You skied a total of 258 yards!
+Want to take another shot?
+

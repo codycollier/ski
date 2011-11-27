@@ -1,8 +1,8 @@
 #!/usr/bin/env python
-""" skier -- Keep the skier between the lines.  Watch out for jumps!
+""" ski -- Keep the skier between the lines.  Watch out for jumps!
 
 start:
-    [host]$ ./skier.py
+    [host]$ ./ski.py
 
 keys:
     j - move the skier to the left
@@ -90,7 +90,7 @@ def print_stats(yards):
     """
     print
     print "You skied a total of", yards, "yards!"
-    print "Want to take another shot?"
+    #print "Want to take another shot?"
     print
     return 0
 
